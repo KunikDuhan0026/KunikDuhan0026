@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://komarev.com/ghpvc/?username=kunikduhan0026&label=Profile%20views&color=0e75b6&style=flat)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm KUNIK DUHAN</h1>
 <h3 align="center">A passionate full stack developer and coder from India</h3>
 <img align="right" alt="coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunikduhan0026&label=Profile%20views&color=0e75b6&style=flat" alt="kunikduhan0026" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="kunikduhan0026" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KunikDuhan0026](https://github.com/KunikDuhan0026)
 
